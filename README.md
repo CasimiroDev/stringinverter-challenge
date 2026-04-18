@@ -24,7 +24,7 @@ The project was built using only the Go standard library, with no external depen
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/CasimiroDev/go-string-reverser](https://github.com/CasimiroDev/go-string-reverser)
+git clone [https://github.com/CasimiroDev/stringinverter-challenge](https://github.com/CasimiroDev/stringinverter-challenge)
 ```
 
 2. Navigate to the project folder:
